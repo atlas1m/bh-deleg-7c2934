@@ -1,6 +1,6 @@
 # Bridgehead V01 - Ressources (Swordfish / Bismarck)
 
-Bundle de ressources pour la première vidéo de la chaîne (documentaire WWII faceless, EN, marché US). Pas un document de synthèse : les pièces brutes.
+Bundle de ressources pour la première vidéo de la chaîne.
 
 ## Packaging verrouillé
 - **Titre** : Germans Laughed at Britain's Antique Biplane - Until It Crippled Hitler's Greatest Battleship
@@ -16,5 +16,3 @@ Bundle de ressources pour la première vidéo de la chaîne (documentaire WWII f
 
 ## Rushes de test (video-tests/)
 Imtiaz Hussain · Mohamed Nour Saidi · Mohammad Usman · Nubair Khan · Rizwan Ali · Tarikul Islam · Zeeshan Nawaz
-
-> Ce sont des **copies de review compressées** (1080p, suffisant pour juger footage / texte / rythme / grade). Les rushes full-res restent dans le vault Obsidian.
